@@ -133,15 +133,6 @@ When working with this dataset, researchers should consider:
 - **Network Analysis**: NetworkX, igraph, Gephi
 - **Text Analysis**: spaCy, NLTK, TextBlob, VADER
 
-## Citation
-
-If you use this dataset in your research, please include appropriate attribution:
-
-```
-Ray-Aldred. (2024). Woke-Tweets: Twitter/X Dataset on "Woke" and "Wokeness" Discourse. 
-GitHub repository. https://github.com/Ray-Aldred/Woke-Tweets
-```
-
 **Dataset Details**:
 - Repository: Woke-Tweets
 - Collection date: November 11, 2024
