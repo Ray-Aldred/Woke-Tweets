@@ -140,13 +140,6 @@ When working with this dataset, researchers should consider:
 - Platform: Twitter/X
 - Date range: November 9-11, 2024
 
-## License and Terms of Use
-
-Users of this dataset must comply with:
-- Twitter/X's Terms of Service
-- Twitter/X's Developer Agreement and Policy
-- Applicable data protection and privacy laws (GDPR, CCPA, etc.)
-
 ## Version History
 
 - **v1.0** (2024-11-11): Initial collection of 3,000 tweets
